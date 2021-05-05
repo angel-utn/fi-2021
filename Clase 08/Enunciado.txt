@@ -1,0 +1,14 @@
+En un torneo de fútbol participan 5 equipos. Cada equipo realiza 4 partidos, uno con cada
+rival. Hacer un programa para ingresar por cada equipo  un conjunto de 4 registros con los
+siguientes datos:
+
+- Número del equipo (entero)
+- Código del resultado del partido jugado  ('P': perdido, 'E': empatado, 'G': ganado)
+
+Los registros se ingresarán agrupados(no necesariamente ordenados) por nro. de equipo.
+
+Se pide determinar e informar:
+a) Para cada equipo su número y total de partidos perdidos, empatados y ganados.
+b) El nro. de equipo que ganó más puntos. Si hay varios con la misma cantidad de puntos ganados, entonces informar el primero que se haya detectado con esa cantidad.
+
+NOTA: Se otorgan 3 puntos a cada partido ganado y 1 punto a cada partido empatado.
