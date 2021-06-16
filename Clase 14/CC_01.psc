@@ -4,9 +4,9 @@ Algoritmo sin_titulo
 		Leer DEST
 		TRDT = 0
 		Para M<-1 Hasta 12 Con Paso 1 Hacer
-			Leer MES, CP, TR
-			CPT = CPT + CP
-			TRDT = TRDT + TR
+			Leer MES,CP,TR
+			CPT = CPT+CP
+			TRDT = TRDT+TR
 		FinPara
 		Escribir TRDT
 	FinPara
